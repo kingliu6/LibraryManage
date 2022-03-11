@@ -11,7 +11,7 @@
                 <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql://gz-cynosdbmysql-grp-nctjxlx9.sql.tencentcdb.com:27647/book_manage"/>
                 <property name="username" value="root"/>
-                <property name="password" value="123654789Abc."/>
+                <property name="password" value="password"/>
             </dataSource>
         </environment>
     </environments>
